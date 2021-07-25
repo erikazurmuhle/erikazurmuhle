@@ -1,6 +1,6 @@
-                                                              HOLA!! MI NOMBRE ES ERIKA!! 👋
+HOLA!! MI NOMBRE ES ERIKA!! 👋
                                                               
-                                                              SOY DESARROLLADORA FULLSTACK!!
+SOY DESARROLLADORA FULLSTACK!!
 
 
 ME ENCANTA APRENDER COSAS NUEVAS Y PONER A PRUEBA TODOS LOS CONOCIMIENTOS ADQUIRIDOS!!
